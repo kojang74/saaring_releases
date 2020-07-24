@@ -1,0 +1,21 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.mirine.saaring</Name>
+  <DisplayName>Saaring</DisplayName>
+  <Description>Saaring, free p2p file sharing service</Description>
+  <Version>1.3.1</Version>
+  <ReleaseDate>2020-07-01</ReleaseDate>
+  <Default>true</Default>
+  <Script>updatescript.qs</Script>
+  <UpdateFile CompressedSize="83454541" OS="Any" UncompressedSize="253371041"/>
+  <DownloadableArchives>bearer.7z,iconengines.7z,imageformats.7z,installerResources.7z,Licenses.7z,platforms.7z,position.7z,printsupport.7z,resources.7z,sqldrivers.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
+  <Translations>ko.qm</Translations>
+  <Licenses>
+   <License file="license.txt" name="Saaring License Agreement"/>
+  </Licenses>
+  <SHA1>6a4a66231c61776aeed49dc910906d4638ac3a0a</SHA1>
+ </PackageUpdate>
+</Updates>
