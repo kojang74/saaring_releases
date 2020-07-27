@@ -10,12 +10,12 @@
   <ReleaseDate>2020-07-01</ReleaseDate>
   <Default>true</Default>
   <Script>updatescript.qs</Script>
-  <UpdateFile CompressedSize="83454541" OS="Any" UncompressedSize="253371041"/>
+  <UpdateFile UncompressedSize="253109921" CompressedSize="83407368" OS="Any"/>
   <DownloadableArchives>bearer.7z,iconengines.7z,imageformats.7z,installerResources.7z,Licenses.7z,platforms.7z,position.7z,printsupport.7z,resources.7z,sqldrivers.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
   <Translations>ko.qm</Translations>
   <Licenses>
    <License file="license.txt" name="Saaring License Agreement"/>
   </Licenses>
-  <SHA1>6a4a66231c61776aeed49dc910906d4638ac3a0a</SHA1>
+  <SHA1>a31847defa35556223ba00fba45553c9cbe82359</SHA1>
  </PackageUpdate>
 </Updates>
