@@ -6,16 +6,16 @@
   <Name>com.mirine.saaring</Name>
   <DisplayName>Saaring</DisplayName>
   <Description>Saaring, free p2p file sharing service</Description>
-  <Version>1.3.1</Version>
-  <ReleaseDate>2020-07-01</ReleaseDate>
+  <Version>1.3.2</Version>
+  <ReleaseDate>2020-09-09</ReleaseDate>
   <Default>true</Default>
   <Script>updatescript.qs</Script>
-  <UpdateFile CompressedSize="83407368" OS="Any" UncompressedSize="253109921"/>
+  <UpdateFile OS="Any" UncompressedSize="253068449" CompressedSize="83402625"/>
   <DownloadableArchives>bearer.7z,iconengines.7z,imageformats.7z,installerResources.7z,Licenses.7z,platforms.7z,position.7z,printsupport.7z,resources.7z,sqldrivers.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
   <Translations>ko.qm</Translations>
   <Licenses>
    <License name="Saaring License Agreement" file="license.txt"/>
   </Licenses>
-  <SHA1>0f746032bee6959e771d9e1450547250f83427c4</SHA1>
+  <SHA1>4abe2364068f6e31a3135edec6f58bd8b75c1a50</SHA1>
  </PackageUpdate>
 </Updates>
